@@ -76,8 +76,14 @@
 
 <h2>📫 Contact me</h2>
 
-<ul>
-  <li><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="20"/> <a href="https://www.linkedin.com/in/itskh4nh2712/" target="_blank">itskh4nh2712</a></li>
-  <li><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" alt="Kaggle" width="20"/> <a href="https://www.kaggle.com/itskh4nh" target="_blank">itskh4nh</a></li>
-  <li><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" width="20"/> <a href="mailto:itskh4nh.work@gmail.com">itskh4nh.work@gmail.com</a></li>
-</ul>
+<div align="left">
+  <a href="https://www.linkedin.com/in/itskh4nh2712/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-itskh4nh2712-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/itskh4nh" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-itskh4nh-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="mailto:itskh4nh.work@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-itskh4nh.work@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
