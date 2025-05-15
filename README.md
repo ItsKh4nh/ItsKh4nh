@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Bảo Khánh</h1>
-<h3 align="center">A passionate Data Science/Machine Learning Developer</h3>
+<h3 align="center">A passionate developer specializing in Data Science and Machine Learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itskh4nh&label=Profile%20Views&color=ff0000&style=flat" alt="itskh4nh" /> </p>
 
