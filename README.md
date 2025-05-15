@@ -1,12 +1,9 @@
 <h2>🔭 About me</h2>
 
-- 👋 I'm Nguyễn Bảo Khánh, a passionate developer specializing in Data Science and Machine Learning.
-
-- 💡 I’m currently working on my Graduation Thesis at NCT - NEU College of Technology.
-
-- 🎯 I’m currently learning about Deep Learning, Computer Vision, LLMs, and AI agents.
-
-- 🌱 Fun fact: I have a strong passion for sports, especially Formula One.
+- 👋 I'm **Nguyễn Bảo Khánh**, a passionate developer specializing in **Data Science** and **Machine Learning**.
+- 💡 I’m currently working on my **Graduation Thesis** at **NCT - NEU College of Technology**.
+- 🎯 I’m currently learning about **Deep Learning**, **Computer Vision**, **LLMs** and **AI agents**.
+- 🌱 Fun fact: I have a strong passion for sports, especially **Formula One**.
 
 <h2> 🎓 Skills</h2>
 
@@ -22,9 +19,8 @@
 <div align="left">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/ChromaDB-282C34?style=for-the-badge&logo=data:image/svg+xml;base64,[BASE64_ENCODED_SVG]" alt="ChromaDB"/>
+  <img src="https://img.shields.io/badge/ChromaDB-282C34?style=for-the-badge&logoColor=white" alt="ChromaDB"/>
 </div>
 
 ### 🕸️ Data Scraping
@@ -39,7 +35,7 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/NLTK-000000?style=for-the-badge&logo=nltk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Librosa-FF4C4C?style=for-the-badge&logo=data:image/svg+xml;base64,[BASE64_ENCODED_SVG]" alt="Librosa"/>
+  <img src="https://img.shields.io/badge/Librosa-FF4C4C?style=for-the-badge&logo=librosa&logoColor=white" alt="Librosa"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
@@ -70,12 +66,13 @@
 
 ### 🌐 Languages
 <div align="left">
-  <img src="https://img.shields.io/badge/Vietnamese-Native-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/English-Proficient-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IELTS-7.5-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vietnamese-Native-green?style=flat-square"/>  
+  <img src="https://img.shields.io/badge/English-Proficient-blue?style=flat-square"/>  
+  <img src="https://img.shields.io/badge/IELTS-7.5-blueviolet?style=flat-square"/>
 </div>
 
 <br>
+
 <h2>📈 Stats</h2>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itskh4nh&show_icons=true&theme=dracula&text_color=ffffff&locale=en&layout=compact" alt="itskh4nh" /></p>
@@ -84,7 +81,7 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/itskh4nh2712/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-itskh4nh2712-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-itskh4nh2712-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.kaggle.com/itskh4nh" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-itskh4nh-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
