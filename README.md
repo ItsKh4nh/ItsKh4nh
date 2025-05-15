@@ -1,23 +1,95 @@
-<h1 align="center">Hi 👋, I'm Nguyễn Bảo Khánh</h1>
-<h3 align="center">A passionate developer specializing in Data Science and Machine Learning.</h3>
+<h2>🔭 About me</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itskh4nh&label=Profile%20Views&color=ff0000&style=flat" alt="itskh4nh" /> </p>
+- 👋 I'm Nguyễn Bảo Khánh, a passionate developer specializing in Data Science and Machine Learning.
 
-- 🔭 I’m currently working on **my Graduation thesis.**
+- 💡 I’m currently working on my Graduation thesis at NCT - NEU College of Technology.
 
-- 🌱 I’m currently learning **about Deep Learning, Computer Vision, LLMs and AI agents.**
+- 🎯 I’m currently learning about Deep Learning, Computer Vision, LLMs and AI agents.
 
-- 📫 How to reach me **itskh4nh.work@gmail.com**
+- 🌱 Fun fact: I have a strong passion for sports, especially Formula One.
 
-- ⚡ Fun fact **I have a strong passion for sports, especially Formula One.**
+<h2> 🎓 Skills</h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/itskh4nh2712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itskh4nh2712" height="30" width="40" /></a>
-<a href="https://kaggle.com/itskh4nh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="itskh4nh" height="30" width="40" /></a>
-</p>
+<img align="right" alt="GIF" width="400px" src="coding.gif" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 💻 Programming
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</div>
+
+### 🗄️ Database
+<div align="left">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ChromaDB-282C34?style=for-the-badge&logoColor=white" alt="ChromaDB"/>
+</div>
+
+### 🕸️ Data Scraping
+<div align="left">
+  <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scrapy-85EA2D?style=for-the-badge&logo=scrapy&logoColor=black"/>
+</div>
+
+### 📊 Data Analysis, Processing & Visualization
+<div align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLTK-000000?style=for-the-badge&logo=nltk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Librosa-FF4C4C?style=for-the-badge&logo=librosa&logoColor=white" alt="Librosa"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</div>
+
+### 🧠 AI Frameworks
+<div align="left">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformers-FFCE5A?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+</div>
+
+### 🚀 Deployment & Optimization
+<div align="left">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RESTful%20APIs-005571?style=for-the-badge&logo=api&logoColor=white" alt="RESTful APIs"/>
+  <img src="https://img.shields.io/badge/Gradio-FF4B4B?style=for-the-badge&logo=gradio&logoColor=white"/>
+</div>
+
+### ⚙️ DevOps & Collaboration Tools
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</div>
+
+### 🌐 Languages
+<div align="left">
+  <img src="https://img.shields.io/badge/Vietnamese-Native-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/English-Proficient-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IELTS-7.5-blueviolet?style=for-the-badge"/>
+</div>
+
+<br>
+<h2>📈 Stats</h2>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itskh4nh&show_icons=true&theme=dracula&text_color=ffffff&locale=en&layout=compact" alt="itskh4nh" /></p>
+
+<h2>📫 Contact me</h2>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/itskh4nh2712/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-itskh4nh2712-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/itskh4nh" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-itskh4nh-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="mailto:itskh4nh.work@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-itskh4nh.work@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
