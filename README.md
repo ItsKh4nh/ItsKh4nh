@@ -5,6 +5,8 @@
 - 🎯 I’m currently learning about **Deep Learning**, **Computer Vision**, **LLMs** and **AI agents**.
 - 🌱 Fun fact: I have a strong passion for sports, especially **Formula One**.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itskh4nh&label=Profile%20Views&color=ff0000&style=flat" alt="itskh4nh" /> </p>
+
 <h2> 🎓 Skills</h2>
 
 <img align="right" alt="GIF" width="400px" src="coding.gif" />
