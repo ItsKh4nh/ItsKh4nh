@@ -54,7 +54,6 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RESTful%20APIs-005571?style=for-the-badge&logo=api&logoColor=white" alt="RESTful APIs"/>
   <img src="https://img.shields.io/badge/Gradio-FF4B4B?style=for-the-badge&logo=gradio&logoColor=white"/>
 </div>
 
@@ -66,9 +65,7 @@
 
 ### 🌐 Languages
 <div align="left">
-  <img src="https://img.shields.io/badge/Vietnamese-Native-green?style=flat-square"/>  
-  <img src="https://img.shields.io/badge/English-Proficient-blue?style=flat-square"/>  
-  <img src="https://img.shields.io/badge/IELTS-7.5-blueviolet?style=flat-square"/>
+  <img src="https://img.shields.io/badge/IELTS-7.5-green?style=flat-square"/>
 </div>
 
 <br>
