@@ -65,7 +65,7 @@
 
 ### 🌐 Languages
 <div align="left">
-  <img src="https://img.shields.io/badge/IELTS-7.5-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/IELTS-7.5-blue?style=flat-square"/>
 </div>
 
 <br>
