@@ -2,7 +2,7 @@
 
 - 👋 I'm Nguyễn Bảo Khánh, a passionate developer specializing in Data Science and Machine Learning.
 
-- 💡 I’m currently working on my Graduation thesis at NCT - NEU College of Technology.
+- 💡 I’m currently working on my Graduation Thesis at NCT - NEU College of Technology.
 
 - 🎯 I’m currently learning about Deep Learning, Computer Vision, LLMs and AI agents.
 
