@@ -29,7 +29,6 @@
 <div align="left">
   <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scrapy-85EA2D?style=for-the-badge&logo=scrapy&logoColor=black"/>
 </div>
 
 ### 📊 Data Analysis, Processing & Visualization
