@@ -1,8 +1,8 @@
 <h2>🔭 About me</h2>
 
-- 👋 I'm **Nguyễn Bảo Khánh**, a passionate developer specializing in **Data Science** and **Machine Learning**.
-- 💡 I’m currently working on my **Graduation Thesis** at **NCT - NEU College of Technology**.
-- 🎯 I’m currently learning about **Deep Learning**, **Computer Vision**, **LLMs** and **AI agents**.
+- 👋 I'm **Nguyễn Bảo Khánh**, a passionate developer specializing in **Data Science** and **Machine Learning**.  
+- 💡 I've just completed my **Graduation Thesis** at **NCT - NEU College of Technology**.  
+- 🎯 I’m currently learning more about **Deep Learning**, **Computer Vision**, **LLMs** and **AI agents**.  
 - 🌱 Fun fact: I have a strong passion for sports, especially **Formula One**.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itskh4nh&label=Profile%20Views&color=ff0000&style=flat" alt="itskh4nh" /> </p>
@@ -50,6 +50,7 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Transformers-FFCE5A?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 </div>
 
 ### 🚀 Deployment & Optimization
